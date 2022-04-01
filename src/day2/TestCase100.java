@@ -1,4 +1,4 @@
-package day02;
+package day2;
 
 public class TestCase100 {
     public static void main(String[] args) {
@@ -9,6 +9,13 @@ public class TestCase100 {
         System.out.println("rahimi");
 
         System.out.println("amani");
+
+        System.out.println("rahmani");
+
+        System.out.println("karimi");
+
+        System.out.println("Sallehi");
+
 
 
     }
