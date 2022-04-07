@@ -13,6 +13,7 @@ public class First {
     // updated now by malek amiree 04-06-22
 
     // how ar e u m f
+    // how r u my friend
 
 
 }
